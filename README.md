@@ -1,19 +1,20 @@
 ## Hi there 👋 I’m Eli!
-
+<br></br>
 💻 Learning and Growing:
 I’m currently diving into new programming languages and sharpening my skills with ones I’ve used before.
-
+<br></br>
 🚀 Passionate About:
-	•	Exploring creative solutions through code
-	•	Building projects that make an impact
-	•	Continuously learning and evolving
-
+<br></br>
+• Exploring creative solutions through code
+• Building projects that make an impact
+• Continuously learning and evolving
+<br></br>
 🌱 What I’m Working On:
-	•	Relearning fundamentals and advanced concepts
-	•	Exploring frameworks and tools that spark my curiosity
+<br></br>
+• Relearning fundamentals and advanced concepts
+• Exploring frameworks and tools that spark my curiosity
+<br></br>
 
-💡 Let’s Collaborate:
-I’m always open to connecting, collaborating, and learning together. Feel free to reach out!
 <!--
 **OniceFenice/OniceFenice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
