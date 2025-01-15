@@ -13,7 +13,7 @@ I’m currently diving into new programming languages and sharpening my skills w
 <br></br>
 • Relearning fundamentals and advanced concepts
 
-• Exploring frameworks and tools that spark my curiosity. 
+• Exploring frameworks and tools that spark my curiosity
 <br></br>
 
 <!--
