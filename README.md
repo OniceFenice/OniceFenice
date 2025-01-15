@@ -6,7 +6,7 @@ I’m currently diving into new programming languages and sharpening my skills w
 🚀 Passionate About:
 <br></br>
 • Exploring creative solutions through code
-• Building projects that make an impact 
+• Building projects that make an impact
 • Continuously learning and evolving 
 <br></br>
 🌱 What I’m Working On:
