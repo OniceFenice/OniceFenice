@@ -5,14 +5,14 @@ I’m currently diving into new programming languages and sharpening my skills w
 <br></br>
 🚀 Passionate About:
 <br></br>
-• Exploring creative solutions through code
-• Building projects that make an impact
-• Continuously learning and evolving
+• Exploring creative solutions through code. 
+• Building projects that make an impact. 
+• Continuously learning and evolving. 
 <br></br>
 🌱 What I’m Working On:
 <br></br>
-• Relearning fundamentals and advanced concepts
-• Exploring frameworks and tools that spark my curiosity
+• Relearning fundamentals and advanced concepts. 
+• Exploring frameworks and tools that spark my curiosity. 
 <br></br>
 
 <!--
