@@ -6,7 +6,7 @@ I’m currently diving into new programming languages and sharpening my skills w
 My Current ventures are:
 <br></br> Code Languages<br></br>
 ### Web Development
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-blue?logo=html5&logoColor=white)  
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-orange?logo=html5&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white)  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)  
 
