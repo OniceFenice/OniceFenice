@@ -4,7 +4,7 @@
 I’m currently diving into new programming languages and sharpening my skills with ones I’ve used before
 
 My Current ventures are:
-<br></br>
+<br></br> Code Languages<br></br>
 ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-orange?logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-blue?logo=lua&logoColor=white)
