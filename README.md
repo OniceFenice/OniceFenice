@@ -2,7 +2,7 @@
 <br></br>
 💻 Learning and Growing:
 I’m currently diving into new programming languages and sharpening my skills with ones I’ve used before
-
+![OniceFenices's GitHub stats](https://github-readme-stats.vercel.app/api?username=onicefenice&show_icons=true&hide=issues,prs,contribs&theme=radical)
 ### My Current ventures are:
 • Web Development:    
 ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-orange?logo=html5&logoColor=white)
