@@ -1,7 +1,6 @@
 ## Hi there 👋 I’m Eli!
 <br></br>
-💻 **FiveM Resource Developer**
-I’m always learning, exploring new ideas, and improving my coding skills across different languages and technologies.
+💻 I’m always learning, exploring new ideas, and improving my coding skills across different languages and technologies.
 
 ### My Current ventures are:
 • Web Development:    
@@ -20,8 +19,9 @@ I’m always learning, exploring new ideas, and improving my coding skills acros
 ![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-black?logo=rust&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white)    
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white)  
 
+**FiveM Resource Developer Experience**
 ### FiveM Development
 ![FiveM](https://img.shields.io/badge/FiveM-Resource_Development-orange?logo=fivem&logoColor=white)
 ![ESX](https://img.shields.io/badge/ESX-Framework-black)
