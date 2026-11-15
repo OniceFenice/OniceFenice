@@ -2,6 +2,18 @@
 <br></br>
 💻 I’m always learning, exploring new ideas, and improving my coding skills across different languages and technologies.
 
+🚀 Passionate About:    
+• Exploring creative solutions through code
+• Building projects that make an impact
+• Continuously learning and evolving 
+<br></br>
+🌱 What I’m Working On:
+<br></br>
+• Relearning fundamentals and advanced concepts
+
+• Exploring frameworks and tools that spark my curiosity
+<br></br>
+
 ### My Current ventures are:
 • Web Development:    
 ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-orange?logo=html5&logoColor=white)
@@ -29,17 +41,7 @@
 ![Qbox](https://img.shields.io/badge/Qbox-Framework-purple)
 ![ox_lib](https://img.shields.io/badge/ox__lib-Library-green)
 
-🚀 Passionate About:    
-• Exploring creative solutions through code
-• Building projects that make an impact
-• Continuously learning and evolving 
-<br></br>
-🌱 What I’m Working On:
-<br></br>
-• Relearning fundamentals and advanced concepts
 
-• Exploring frameworks and tools that spark my curiosity
-<br></br>
 
 <!--
 **OniceFenice/OniceFenice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
