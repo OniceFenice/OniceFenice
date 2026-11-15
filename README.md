@@ -28,8 +28,6 @@ I’m always learning, exploring new ideas, and improving my coding skills acros
 ![QBCore](https://img.shields.io/badge/QBCore-Framework-blue)
 ![Qbox](https://img.shields.io/badge/Qbox-Framework-purple)
 ![ox_lib](https://img.shields.io/badge/ox__lib-Library-green)
-![FXServer](https://img.shields.io/badge/FXServer-FiveM-blue)
-![txAdmin](https://img.shields.io/badge/txAdmin-Server_Management-grey)
 
 🚀 Passionate About:    
 • Exploring creative solutions through code
