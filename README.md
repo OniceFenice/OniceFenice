@@ -32,16 +32,18 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-black?logo=rust&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white)  
-
+<br></br>
 **FiveM Resource Developer Experience**
 ### FiveM Development
 ![FiveM](https://img.shields.io/badge/FiveM-Resource_Development-orange?logo=fivem&logoColor=white)
 ![ESX](https://img.shields.io/badge/ESX-Framework-black)
 ![ox_lib](https://img.shields.io/badge/ox__lib-Library-green)
 
-### Current Projects
-![FiveM](https://img.shields.io/badge/CODENAME-OLYMPUS-pink?style=plastic&logo=fivem&labelColor=E62F89&logoColor=white)
-
+<br></br>
+###In Progress Project
+**Current Projects**
+![Olympus](https://img.shields.io/badge/CODENAME-OLYMPUS-pink?style=plastic&logo=fivem&labelColor=E62F89&logoColor=white)
+<br></br>
 <!--
 **OniceFenice/OniceFenice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
