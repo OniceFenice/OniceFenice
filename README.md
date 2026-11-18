@@ -39,11 +39,13 @@
 ![ESX](https://img.shields.io/badge/ESX-Framework-black)
 ![ox_lib](https://img.shields.io/badge/ox__lib-Library-green)
 
-<br></br>
-###In Progress Project
+
+### In Progress Project
+
 **Current Projects**
-![Olympus](https://img.shields.io/badge/CODENAME-OLYMPUS-pink?style=plastic&logo=fivem&labelColor=E62F89&logoColor=white)
-<br></br>
+
+![Olympus](https://img.shields.io/badge/CODENAME-OLYMPUS-00D9FF?style=plastic&logo=fivem&labelColor=FF4F9A&logoColor=FFFFFF)
+
 <!--
 **OniceFenice/OniceFenice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
