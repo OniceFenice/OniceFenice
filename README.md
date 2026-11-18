@@ -42,7 +42,7 @@
 ![ox_lib](https://img.shields.io/badge/ox__lib-Library-green)
 
 ### Current Projects
-![FiveM](https://img.shields.io/badge/CODENAME-OLYMPUS-pink?logo=fivem&logoColor=white)
+![FiveM](https://img.shields.io/badge/CODENAME-OLYMPUS-pink?style=plastic&logo=fivem&labelColor=E62F89&logoColor=white)
 
 <!--
 **OniceFenice/OniceFenice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
