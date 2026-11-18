@@ -37,8 +37,6 @@
 ### FiveM Development
 ![FiveM](https://img.shields.io/badge/FiveM-Resource_Development-orange?logo=fivem&logoColor=white)
 ![ESX](https://img.shields.io/badge/ESX-Framework-black)
-![QBCore](https://img.shields.io/badge/QBCore-Framework-blue)
-![Qbox](https://img.shields.io/badge/Qbox-Framework-purple)
 ![ox_lib](https://img.shields.io/badge/ox__lib-Library-green)
 
 ### Current Projects
