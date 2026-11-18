@@ -41,7 +41,8 @@
 ![Qbox](https://img.shields.io/badge/Qbox-Framework-purple)
 ![ox_lib](https://img.shields.io/badge/ox__lib-Library-green)
 
-
+### Current Projects
+![FiveM](https://img.shields.io/badge/CODENAME-OLYMPUS-orange?logo=olympus&logoColor=white)
 
 <!--
 **OniceFenice/OniceFenice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
